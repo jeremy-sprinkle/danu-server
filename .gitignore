@@ -1,0 +1,6 @@
+dist/
+*.zip
+Makefile
+config.json
+logfile.log
+.idea
